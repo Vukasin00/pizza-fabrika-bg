@@ -1,0 +1,26 @@
+{
+  "id": "/pizza-fabrika-bg/kuhinja",
+  "name": "Pizza Fabrika · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Pizza Fabrika",
+  "lang": "sr",
+  "start_url": "/pizza-fabrika-bg/kuhinja",
+  "scope": "/pizza-fabrika-bg/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#062E19",
+  "background_color": "#062E19",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

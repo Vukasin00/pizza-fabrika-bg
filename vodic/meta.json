@@ -1,0 +1,47 @@
+{
+  "info": {
+    "id": "fabrika",
+    "guideKey": "pf-guide-done",
+    "storageKey": "pizza-fabrika-bg",
+    "fulfillments": [
+      "delivery",
+      "pickup"
+    ],
+    "sizes": 4,
+    "name": "Pizza Fabrika",
+    "address": "Sinđelićeva 22, Beograd (Vračar)",
+    "phone": "060 343 2116",
+    "hours": "Pon – Sre i Ned 10:00 – 23:00 · Čet – Sub 10:00 – 24:00",
+    "instagram": "https://www.instagram.com/_pizzafabrika_/",
+    "logo": "logo.png",
+    "deliveryFee": 250,
+    "cardPayment": [],
+    "locations": 0,
+    "categories": 8,
+    "menu": "static",
+    "menuItems": 60,
+    "closedToday": false,
+    "soldOutToday": [],
+    "orders": "local",
+    "tenantPath": "fabrika",
+    "emulator": false
+  },
+  "style": {
+    "bg": "#F4EDDF",
+    "card": "#FFFCF5",
+    "inset": "#EAE0CC",
+    "line": "#DCCFB5",
+    "primary": "#006838",
+    "onPrimary": "#FFFFFF",
+    "dark": "#062E19",
+    "dark2": "#0A3A20",
+    "cta": "#C44E22",
+    "ink": "#1C2620",
+    "ink2": "#56605A",
+    "font": "\"Bitter\", \"Rockwell\", Georgia, serif",
+    "tracking": "0.01em",
+    "case": "uppercase",
+    "weight": "800",
+    "scale": "0.74"
+  }
+}
